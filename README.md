@@ -10,6 +10,8 @@ $ npm install
 $ cp .env.example .env
 ```
 
+> You can define consts in `src/config/app.config.ts` and export them from there.
+
 ## Running the app
 
 ```bash
